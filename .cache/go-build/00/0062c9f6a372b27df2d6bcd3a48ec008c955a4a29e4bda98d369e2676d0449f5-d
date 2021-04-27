@@ -1,0 +1,6 @@
+./androidboot.go
+./asset.go
+./bootloader.go
+./grub.go
+./lk.go
+./uboot.go

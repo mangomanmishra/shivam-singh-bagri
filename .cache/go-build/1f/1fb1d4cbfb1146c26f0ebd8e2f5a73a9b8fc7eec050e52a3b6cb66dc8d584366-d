@@ -1,0 +1,16 @@
+./assets.go
+./boot.go
+./bootchain.go
+./booted_kernel_partition_linux.go
+./bootstate16.go
+./bootstate20.go
+./bootstate20_bloader_kernel_state.go
+./cmdline.go
+./debug.go
+./errors.go
+./initramfs.go
+./initramfs20dirs.go
+./kernel_os.go
+./makebootable.go
+./modeenv.go
+./seal.go

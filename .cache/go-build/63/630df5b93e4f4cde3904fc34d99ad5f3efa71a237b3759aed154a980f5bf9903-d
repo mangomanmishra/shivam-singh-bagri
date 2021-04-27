@@ -1,0 +1,4 @@
+./crypto.go
+./macaroon.go
+./marshal.go
+./packet.go

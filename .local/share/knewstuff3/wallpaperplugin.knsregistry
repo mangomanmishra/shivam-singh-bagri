@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="419">
+  <name>Smart Video Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1316299</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>79</rating>
+  <downloads>63898</downloads>
+  <installedfile>/home/shivakantm/.local/share/plasma/wallpapers/smartvideowallpaper</installedfile>
+  <id>1316299</id>
+  <releasedate>2019-10-11</releasedate>
+  <summary>&lt;span style="color: #ff0000;">Do NOT use this plugin as lockscreen (for this use my other plugin)&lt;/span>&lt;br />
+&lt;br />
+Video Demo &lt;a href="https://www.reddit.com/r/unixporn/comments/cj4dfh/plasma_smart_video_wallpaper/" target="_blank" rel="nofollow">HERE&lt;/a>&lt;br />
+&lt;br />
+Video desktop wallpaper...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/3/f/f/1bfcf7ca6f6b1d6419a939a7f34edb99c6b3.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/3/f/f/1bfcf7ca6f6b1d6419a939a7f34edb99c6b3.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzA4MTA3MTgiLCJvIjoiMSIsInMiOiJhZjMwNzBiNDVkMDQxYTRlMjRiNWU5ZDJlNjc4NzU3ZGVjNTllNWNkNTkwOGM0NGU3MDRlNDM0ODQ2NmM1NzkxYmYyNDkyYmU0YmU2OTQzZjNlNDk5YjQ0ZWUwMDkzMDM2YmUzMDhlYjNhYWUzYmFkODA1MjM0NGIyNjcyZDMxNSIsInQiOjE2MTk0NjE1MDAsInN0ZnAiOm51bGwsInN0aXAiOiIxNTcuMzQuMTQ3LjEwNyJ9.1zQ5JC3-Zsv1EgWczR6ReIB8-RuSxX69X4rXHUceed4/smartvideowallpaper.tar.gz</payload>
+  <tags>wallpaper,wallpaper-plugin,unix,video,kde,gplv3,extension,linux,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="419">
+  <name>Animated Image Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>dark-eye</author>
+  <homepage>https://store.kde.org/p/1339104</homepage>
+  <licence></licence>
+  <version>0.3</version>
+  <rating>80</rating>
+  <downloads>28153</downloads>
+  <installedfile>/home/shivakantm/.local/share/plasma/wallpapers/com.darkeye.animatedImage</installedfile>
+  <id>1339104</id>
+  <releasedate>2020-10-20</releasedate>
+  <summary>Plasma plugin to support GIF/MNG/WEBP animated images (based on QT AnimatedImage class). &lt;br />
+Allow for blurring and control of the animation speed and day/night time shading.&lt;br />
+&lt;br />
+You can encode videos to webp format using ffmpeg with the following command :&lt;br />
+ &lt;br />
+ffmpeg -i...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/0/b/1/d040dffcf88fa064306a86a9fc601d23c175.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/0/b/1/d040dffcf88fa064306a86a9fc601d23c175.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDMyMTkxODAiLCJvIjoiMSIsInMiOiI5YmZhNWRkOGY2OGQ1NmNiZGEzNjY5MmFhMGQyZjgxYzg4ZWU1M2EyZWNjMWFjMTM4MThlYWZjODU1YjEyZmIyODBjMjliMzBlOTY5ODg2NGZlOWM5NjA2M2U2NjYxZTUyM2JiZTExN2VmNTQxMTQ1YWM0N2MwYThhNTk1NDY3MSIsInQiOjE2MTk0NjE0OTEsInN0ZnAiOm51bGwsInN0aXAiOiIxNTcuMzQuMTQ3LjEwNyJ9.Pexgz6bgjfBrkbRWNyldMJ1mUrMNzdNWXBX0r997DLQ/com.darkeye.animatedImage-0.3.0.tar.gz</payload>
+  <tags>wallpaper,unix,wallpaper-plugin,animated,animation,plasma,original-product,linux,kde,kdeplasma,gplv3,extension,gif</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,4 @@
+./caps.go
+./fdo.go
+./hints.go
+./notify.go

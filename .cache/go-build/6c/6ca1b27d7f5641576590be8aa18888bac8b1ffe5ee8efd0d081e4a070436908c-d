@@ -1,0 +1,5 @@
+./cmdutil.go
+./info_file.go
+./tool_linux.go
+./version.go
+./version_generated.go

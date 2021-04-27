@@ -1,0 +1,8 @@
+./device_linux.go
+./gadget.go
+./layout.go
+./mountedfilesystem.go
+./ondisk.go
+./raw.go
+./update.go
+./validate.go

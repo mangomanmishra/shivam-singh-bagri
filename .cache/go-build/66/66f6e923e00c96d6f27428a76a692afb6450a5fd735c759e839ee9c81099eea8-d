@@ -1,0 +1,4 @@
+./helpers.go
+./launcher.go
+./settings.go
+./userd.go

@@ -1,0 +1,13 @@
+# github.com/snapcore/snapd/cmd/snap-exec
+/usr/bin/ld: /tmp/go-link-709741770/000002.o: in function `_cgo_bbce630bddcc_Cfunc_mygetgrouplist':
+getgrouplist_unix.cgo2.c:(.text+0x24): warning: Using 'getgrouplist' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+/usr/bin/ld: /tmp/go-link-709741770/000001.o: in function `_cgo_bbce630bddcc_Cfunc_mygetgrgid_r':
+cgo_lookup_unix.cgo2.c:(.text+0x38): warning: Using 'getgrgid_r' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+/usr/bin/ld: /tmp/go-link-709741770/000001.o: in function `_cgo_bbce630bddcc_Cfunc_mygetgrnam_r':
+cgo_lookup_unix.cgo2.c:(.text+0x79): warning: Using 'getgrnam_r' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+/usr/bin/ld: /tmp/go-link-709741770/000001.o: in function `_cgo_bbce630bddcc_Cfunc_mygetpwnam_r':
+cgo_lookup_unix.cgo2.c:(.text+0xc9): warning: Using 'getpwnam_r' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+/usr/bin/ld: /tmp/go-link-709741770/000001.o: in function `_cgo_bbce630bddcc_Cfunc_mygetpwuid_r':
+cgo_lookup_unix.cgo2.c:(.text+0x118): warning: Using 'getpwuid_r' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+/usr/bin/ld: /tmp/go-link-709741770/000021.o: in function `_cgo_26061493d47f_C2func_getaddrinfo':
+cgo_unix.cgo2.c:(.text+0x38): warning: Using 'getaddrinfo' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking

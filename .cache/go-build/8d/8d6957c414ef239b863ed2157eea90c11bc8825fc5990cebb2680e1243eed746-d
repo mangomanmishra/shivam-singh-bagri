@@ -1,0 +1,4 @@
+./label.go
+./label_linux.go
+./selinux.go
+./selinux_linux.go

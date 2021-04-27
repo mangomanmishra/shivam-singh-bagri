@@ -1,0 +1,24 @@
+[
+    {
+        "enabled": true,
+        "id": "1c59a68fc01dc8ec7ca095c8df0d69a1",
+        "metadata": {
+            "fullname": "xrandr-unknown",
+            "name": "eDP1"
+        },
+        "mode": {
+            "refresh": 39.99774932861328,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]

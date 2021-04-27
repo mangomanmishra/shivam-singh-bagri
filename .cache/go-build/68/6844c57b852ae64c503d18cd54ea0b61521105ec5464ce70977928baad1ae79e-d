@@ -1,0 +1,6 @@
+./auxinfo20.go
+./doc.go
+./helpers.go
+./options20.go
+./seed_yaml.go
+./validate.go

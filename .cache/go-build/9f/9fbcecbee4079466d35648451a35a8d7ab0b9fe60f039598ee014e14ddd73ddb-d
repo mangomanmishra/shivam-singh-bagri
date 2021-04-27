@@ -1,0 +1,12 @@
+./ctlcmd.go
+./fde_setup.go
+./get.go
+./health.go
+./helpers.go
+./is_connected.go
+./restart.go
+./services.go
+./set.go
+./start.go
+./stop.go
+./unset.go

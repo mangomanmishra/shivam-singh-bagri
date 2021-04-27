@@ -1,0 +1,3 @@
+./syscall.go
+./sysnum_32_linux.go
+./sysnum_linux.go

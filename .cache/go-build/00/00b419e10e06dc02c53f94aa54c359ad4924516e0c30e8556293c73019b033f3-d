@@ -1,0 +1,13 @@
+./crypto.go
+./devicectx.go
+./devicemgr.go
+./devicestate.go
+./firstboot.go
+./handlers.go
+./handlers_gadget.go
+./handlers_install.go
+./handlers_remodel.go
+./handlers_serial.go
+./helpers.go
+./remodel.go
+./systems.go

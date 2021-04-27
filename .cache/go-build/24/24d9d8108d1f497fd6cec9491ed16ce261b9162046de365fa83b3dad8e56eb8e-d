@@ -1,0 +1,6 @@
+./binaries.go
+./core18.go
+./dbus.go
+./desktop.go
+./icons.go
+./services.go

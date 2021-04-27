@@ -1,0 +1,5 @@
+./assets.go
+./generate.go
+./grub.go
+./grub_cfg_asset.go
+./grub_recovery_cfg_asset.go

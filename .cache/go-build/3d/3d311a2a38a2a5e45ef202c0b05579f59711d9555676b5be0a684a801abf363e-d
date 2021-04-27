@@ -1,0 +1,17 @@
+./constants.go
+./crypt.go
+./efi.go
+./efibootmanager_policy.go
+./errors.go
+./keydata.go
+./pcr_profile.go
+./pin.go
+./policy.go
+./provisioning.go
+./sdefistub_policy.go
+./seal.go
+./secureboot_policy.go
+./snapmodel_policy.go
+./tpm.go
+./unseal.go
+./utils.go

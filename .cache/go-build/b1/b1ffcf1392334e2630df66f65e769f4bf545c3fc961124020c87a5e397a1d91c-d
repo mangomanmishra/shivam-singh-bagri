@@ -1,0 +1,4 @@
+./backend.go
+./cmdfinder.go
+./finder.go
+./pkgfinder.go

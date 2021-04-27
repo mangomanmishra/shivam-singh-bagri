@@ -1,0 +1,4 @@
+./encrypt.go
+./encrypt_tpm.go
+./secboot.go
+./secboot_tpm.go

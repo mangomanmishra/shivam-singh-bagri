@@ -1,0 +1,7 @@
+./base.go
+./errors.go
+./gadget.go
+./kernel.go
+./os.go
+./policy.go
+./snapd.go

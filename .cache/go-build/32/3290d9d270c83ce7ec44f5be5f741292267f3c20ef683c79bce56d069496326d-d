@@ -1,0 +1,7 @@
+./change.go
+./copy.go
+./state.go
+./task.go
+./taskrunner.go
+./timings.go
+./warning.go

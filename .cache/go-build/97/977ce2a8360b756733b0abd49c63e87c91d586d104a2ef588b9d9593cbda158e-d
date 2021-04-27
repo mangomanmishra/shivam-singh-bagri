@@ -1,0 +1,9 @@
+./constants.go
+./efi.go
+./eventdata.go
+./grubeventdata.go
+./log.go
+./sdefistub.go
+./tcgeventdata.go
+./types.go
+./utils.go

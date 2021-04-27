@@ -1,0 +1,14 @@
+./change.go
+./common.go
+./main.go
+./secure_bindmount.go
+./sorting.go
+./system.go
+./trespassing.go
+./update.go
+./user.go
+./utils.go
+./xdg.go
+_cgo_gotypes.go
+bootstrap.cgo1.go
+_cgo_import.go

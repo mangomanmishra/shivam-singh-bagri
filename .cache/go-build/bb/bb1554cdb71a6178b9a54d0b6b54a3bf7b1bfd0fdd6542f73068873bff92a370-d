@@ -1,0 +1,13 @@
+./auth.go
+./cache.go
+./details.go
+./details_v2.go
+./devicenauthctx.go
+./errors.go
+./search_v2.go
+./store.go
+./store_action.go
+./store_asserts.go
+./store_download.go
+./uacontext.go
+./userinfo.go

@@ -1,0 +1,4 @@
+./configmgr.go
+./configstate.go
+./helpers.go
+./hooks.go

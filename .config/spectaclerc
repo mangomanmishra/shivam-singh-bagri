@@ -1,0 +1,15 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+autoSaveImage=true
+copyImageToClipboard=true
+printKeyActionRunning=FocusWindow
+useReleaseToCapture=true
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+
+[Save]
+copySaveLocation=false
+saveFilenameFormat=Screenshot_%T_%d

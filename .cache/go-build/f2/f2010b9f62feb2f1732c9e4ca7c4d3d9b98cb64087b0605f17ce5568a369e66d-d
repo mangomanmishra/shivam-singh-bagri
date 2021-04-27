@@ -1,0 +1,3 @@
+./gettext.go
+./mofile.go
+./test_utils.go

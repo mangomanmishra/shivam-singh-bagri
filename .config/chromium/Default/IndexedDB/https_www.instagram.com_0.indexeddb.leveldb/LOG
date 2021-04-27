@@ -1,0 +1,6 @@
+2021/04/27-08:48:33.980 33fe Creating DB /home/shivakantm/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2021/04/27-08:48:33.985 33fe Reusing MANIFEST /home/shivakantm/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/27-08:48:58.170 33fe Level-0 table #5: started
+2021/04/27-08:48:58.174 33fe Level-0 table #5: 797 bytes OK
+2021/04/27-08:48:58.178 33fe Delete type=0 #3
+2021/04/27-08:48:58.178 33fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

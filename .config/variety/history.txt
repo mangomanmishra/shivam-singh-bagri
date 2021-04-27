@@ -1,0 +1,5 @@
+0
+/home/shivakantm/.config/variety/Downloaded/nasa_apod/JupiterVista_JunoGill_3688.jpg
+/usr/share/wallpapers/garuda-wallpapers/garuda-wp-BSPWM-03.png
+/usr/share/wallpapers/garuda-wallpapers/Imperial-Eagle.jpg
+/usr/share/wallpapers/garuda-wallpapers/Ghosts.jpg

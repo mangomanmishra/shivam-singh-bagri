@@ -1,0 +1,3 @@
+./helpers.go
+./image_linux.go
+./options.go

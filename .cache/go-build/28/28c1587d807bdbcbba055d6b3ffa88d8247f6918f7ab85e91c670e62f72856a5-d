@@ -1,0 +1,4 @@
+./snapref.go
+./tag.go
+./validate.go
+./wellknown.go

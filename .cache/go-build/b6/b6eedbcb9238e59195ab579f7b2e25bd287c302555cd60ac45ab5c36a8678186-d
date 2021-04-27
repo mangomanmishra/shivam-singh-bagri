@@ -1,0 +1,4 @@
+./licenses.go
+./parser.go
+./scanner.go
+./validate.go

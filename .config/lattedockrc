@@ -1,0 +1,20 @@
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP1:::0,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=true
+currentLayout=Dr460nized
+inAdvancedModeForEditSettings=true
+lastNonAssignedLayout=Dr460nized
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=false
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=Dr460nized
+version=2

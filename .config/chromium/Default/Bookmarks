@@ -1,0 +1,61 @@
+{
+   "checksum": "83d72a60e7e123abb447b5efaf14623f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13102446837000000",
+            "guid": "1c044e66-366f-41a7-8fb7-568cf8a8c1a3",
+            "id": "5",
+            "name": "Garuda Linux",
+            "type": "url",
+            "url": "https://garudalinux.org/"
+         }, {
+            "date_added": "13102446886000000",
+            "guid": "d39fd282-b8ab-49e6-9fc5-5cff10e47ca5",
+            "id": "6",
+            "name": "Wiki",
+            "type": "url",
+            "url": "https://wiki.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "guid": "f850492e-a442-4438-bd60-c6e9282de512",
+            "id": "7",
+            "name": "Garuda Forum",
+            "type": "url",
+            "url": "https://forum.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "guid": "e3af0e0b-8e72-4eba-9146-b3a0c48f240e",
+            "id": "8",
+            "name": "UptimeRobot",
+            "type": "url",
+            "url": "https://stats.garudalinux.org/"
+         } ],
+         "date_added": "13263966902793922",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13263966902793925",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13263966902793927",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
